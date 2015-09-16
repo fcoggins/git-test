@@ -1,2 +1,7 @@
 Hello World
 This is line 1.
+
+
+*Section added on Branch A*
+Mary had a little lamb.
+*End Section added on Branch A*
