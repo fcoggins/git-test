@@ -1,4 +1,4 @@
-Hello World
+Goodbye World *user 1 edit to cause a conflict line 1*
 This is line 1.
 
 
