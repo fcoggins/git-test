@@ -4,3 +4,7 @@ This is line 1.*line changed by person 2*
 *Changes made by person 2*
 row, row, row your boat
 *End changes by person 2*
+
+*Section added on Branch A*
+Mary had a little lamb.
+*End Section added on Branch A*
